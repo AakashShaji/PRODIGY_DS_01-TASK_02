@@ -12,25 +12,32 @@ The task involves performing data analysis to uncover insights into survival rat
 * Summarizing the findings and providing actionable insights or conclusions based on the analysis.
 
 ## Analysis Highlights
-1 Data Loading and Cleaning:
+### 1)Data Loading and Cleaning:
 
 The dataset is loaded using pandas, and initial exploration is done to understand the distribution and nature of data.
 Missing values are handled appropriately to ensure accurate analysis.
 
-2 Feature Engineering:
+### 2)Feature Engineering:
 
 New features such as Age_categories are created by binning the Age column into distinct categories like 'Infant', 'Child', 'Teenager', 'Young Adult', 'Adult', and 'Senior'.
 This categorization helps in analyzing survival rates across different age groups.
 
-3 Data Visualization:
+### 3)Data Visualization:
 
 A bar chart is plotted to visualize the survival rates across the defined age categories.
 Different colors are used for each bar to enhance readability and distinction between categories.
 A legend is added to the chart to clearly indicate which color corresponds to which age category.
 
-4 Pivot Table:
+### 4)Pivot Table:
 
 A pivot table is created to summarize the survival rates for each age category, providing a clear tabular representation of the data.
 
 ## Conclusion
 The analysis provides valuable insights into survival rates across different age categories. By visualizing the data, it's possible to identify which age groups had higher or lower survival rates. This can be particularly useful for historical analysis or for designing better safety protocols in current contexts. The notebook successfully demonstrates the process of data cleaning, feature engineering, and visualization to derive meaningful conclusions from a dataset.
+
+Thank you for reviewing my submission!
+
+📬 Contact For any inquiries or feedback regarding this project, please contact:
+
+www.linkedin.com/in/aakashshaji (LinkedIn)
+Email: aakashshaji03@gmail.com
