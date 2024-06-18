@@ -39,5 +39,5 @@ Thank you for reviewing my submission!
 
 📬 Contact For any inquiries or feedback regarding this project, please contact:
 
-www.linkedin.com/in/aakashshaji (LinkedIn)
-Email: aakashshaji03@gmail.com
+* www.linkedin.com/in/aakashshaji (LinkedIn)
+* Email: aakashshaji03@gmail.com
