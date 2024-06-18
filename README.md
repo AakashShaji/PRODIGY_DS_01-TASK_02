@@ -1,7 +1,43 @@
 # PRODIGY_DS_01-TASK_02
+![image](https://github.com/AakashShaji/PRODIGY_DS_02-TASK_02/assets/121721309/aaa4b2e2-6b79-46c8-84b7-e9bde1e2898f)
 
 ## Introduction
 This notebook is a part of a data analysis project aimed at examining survival rates based on different factors. It leverages Python's data analysis libraries, such as pandas and matplotlib, to manipulate data and visualize results. The primary dataset analyzed appears to be related to passenger survival, likely from a historic dataset such as the Titanic passenger data, although the exact dataset isn't explicitly mentioned in the provided content.
+
+## Dataset
+Download dataset from https://www.kaggle.com/c/titanic/data
+
+dataset- [Titanic-Dataset.csv](Titanic-Dataset.csv).
+
+The predefined columns are -
+
+Passenger ID - To identify unique passengers
+
+Survived - If they survived or not
+
+P Class - The class passengers travelled in
+
+pclass: A proxy for socio-economic status (SES) 1st = Upper 2nd = Middle 3rd = Lower
+
+Name - Passenger Name
+
+Sex - Gender of Passenger
+
+Age - Age of passenger
+
+Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+
+SibSp - Number of siblings or spouse
+
+Parch - Parent or child
+
+Ticket - Ticket number
+
+Fare - Amount paid for the ticket
+
+Cabin - Cabin of residence
+
+Embarked - Point of embarkmen
 
 ## Task Description
 The task involves performing data analysis to uncover insights into survival rates based on various demographic and personal characteristics of individuals. Specific objectives include:
